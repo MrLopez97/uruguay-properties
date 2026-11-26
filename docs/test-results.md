@@ -42,3 +42,18 @@ The initial HTML structure passed all smoke tests.
 
 The application is ready for the next development
 phase within the current project scope.
+
+## Test Execution 002
+
+- Test Case: ST-007
+- Status: Fail
+- Related Bug: BUG-001
+- Actual Result: Favicon resource returns HTTP 404.
+
+## Test Execution 003
+
+- Test Case: ST-007
+- Test Type: Retesting
+- Related Bug: BUG-001
+- Actual Result: No console errors.
+- Status: Pass
